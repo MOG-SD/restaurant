@@ -1,7 +1,7 @@
 # 餐厅点餐系统
 #### 1.SpringBoot项目由于打包部署时是打成jar包，所以我将图片资源路径配置到了硬盘
 ![](https://raw.githubusercontent.com/FlyingAnt8080/restaurant/master/assets/image/p1.png)
-
+qqw34q4qq34q34
 #### 2.为防止项目运行后图片找不到，请将“图片”文件夹中的“restaurant”文件夹放到D盘根目录。如果想放到其他盘，请修改application.yml配置文件中对应路径  
 
 ![](https://raw.githubusercontent.com/FlyingAnt8080/restaurant/master/assets/image/p2.png)
